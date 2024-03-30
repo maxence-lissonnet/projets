@@ -1,0 +1,50 @@
+Lettres :
+|   Hauteur : 24px
+|   Longueur : 12px    
+|   Contours : Noir
+|   Fond : Transparent
+
+Bouttons :
+|   Menu :
+|   |   Play :
+|   |   |   Longueur : 62px
+|   |   |   Hauteur : 32px
+|   |   Tutoriel :
+|   |   |   Longueur : 118px
+|   |   |   Hauteur : 32px
+|   |   Quit :
+|   |   |   Longueur : 62px
+|   |   |   Hauteur : 32px
+|   |   Back :
+|   |   |   Longueur : 62px
+|   |   |   Hauteur : 32px
+|   |   Restart :
+|   |   |   Longueur : 106px
+|   |   |   Hauteur : 32px
+|   |   Main menu :
+|   |   |   Longueur : 132px
+|   |   |   Hauteur : 32px
+
+Textes :
+|   Toturial :
+|   |   Right and Left to move:
+|   |   |   Longueur : 314px
+|   |   |   Hauteur : 32px
+|   |   Up to jump:
+|   |   |   Longueur : 146px
+|   |   |   Hauteur : 32px
+|   |   Be carefull:
+|   |   |   Longueur : 160px
+|   |   |   Hauteur : 32px
+|   |   There are ennemis:
+|   |   |   Longueur : 244px
+|   |   |   Hauteur : 32px
+|   |   and traps:
+|   |   |   Longueur : 132px
+|   |   |   Hauteur : 32px
+|   |   Right click to super jump:
+|   |   |   Longueur : 356px
+|   |   |   Hauteur : 32px
+|   |   Left click to shoot:
+|   |   |   Longueur : 272px
+|   |   |   Hauteur : 32px
